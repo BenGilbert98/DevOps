@@ -32,7 +32,7 @@ And there are business benefits:
 - BitBucket
 
 ## Cloud Computing
-
+This is the delivery of computing services such as servers, storage, databases and networking. These services are delivered over the cloud to allow for faster innovation, flexible resources and economies of scale. You only pay for the services which you utilise so it helps companies with lower operating costs whilst removing the need for local infrastructure.
 
 ## What is SAAS, PAAS, IAAS and when should we use them?
 ![](as_a_service.png)
