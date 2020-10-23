@@ -20,17 +20,10 @@ And there are business benefits:
 - More time to innovate (rather than fix/maintain)
 
 ## Tools of DevOps
-- Slack
-- Jenkins
-- Docker
-- Phantom
-- Naigos
-- Vagrant
-- Ansible
-- GitHub
-- Sentry
-- BitBucket
-
+- Jenkins - an open-source tool which allows for automation in the delivery pipeline. It allows the user to test and report changes almost in real time.
+- Docker - open source platform that focuses on containers allowing you to package up software with its dependencies and ship everything as a single unit.
+- Ansible - automating software provisioning, configuration management, and application deployment.
+- Git - open source tool which will allow you to track work development and help coordinate team members. One major benefit is the ability to revert to previously saved versions of your work.
 ## Cloud Computing
 This is the delivery of computing services such as servers, storage, databases and networking. These services are delivered over the cloud to allow for faster innovation, flexible resources and economies of scale. You only pay for the services which you utilise so it helps companies with lower operating costs whilst removing the need for local infrastructure.
 
