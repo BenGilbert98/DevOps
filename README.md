@@ -52,8 +52,6 @@ Advantages
 - Can develop on multiple platforms
 - Affordable
 
-Disadvantages
-
 ### IAAS
 Infrastructure as a service (IaaS) is a computing infrastructure which is provisioned over the internet
 
