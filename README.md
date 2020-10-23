@@ -54,10 +54,10 @@ Disadvantages
 Platform as a service (PaaS) is a development and deployment environment in the cloud which enables delivery of applications no matter how sophisticated and operates on a pay as you go basis.
 
 Advantages
-	- Reduces coding time
-	- Development capabilities without extra staff
-	- Can develop on multiple platforms
-	- Affordable
+- Reduces coding time
+- Development capabilities without extra staff
+- Can develop on multiple platforms
+- Affordable
 
 Disadvantages
 
