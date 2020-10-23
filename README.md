@@ -35,7 +35,7 @@ And there are business benefits:
 
 
 ## What is SAAS, PAAS, IAAS and when should we use them?
-![](as_a_service)
+![](as_a_service.png)
 
 ### SAAS
 Software as a service (SaaS) is a cloud based service where you access an application through the internet rather than downloading software to your PC
